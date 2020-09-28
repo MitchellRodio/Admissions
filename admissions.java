@@ -10,12 +10,12 @@ public class Admissions {
         String satScore = scoreSAT.nextLine();  
 // Sat ^
         Scanner classRank = new Scanner(System.in);  
-        System.out.println("Enter your SAT Score: ");
+        System.out.println("Enter your Class Rank: ");
 
         String rankClass = classRank.nextLine();  
 // Class rank ^ 
         Scanner awards = new Scanner(System.in);  
-        System.out.println("Enter your SAT Score: ");
+        System.out.println("Enter your Awards: ");
 
         String classAwards = awards.nextLine();  
 
